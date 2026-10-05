@@ -427,7 +427,7 @@ Choose between 7 GPU-efficient background modes directly from the Settings tab o
 
 ---
 
-## 🫧 Apple iOS Bubble Audio System
+## 🍎 Apple iOS Bubble Audio System
 
 StarHub UI is powered by the **Apple iOS Bubble Audio Engine** (`rbxassetid://6895079853`):
 - **Click**: Warm, rounded bubble pop (`Pitch: 1.10`)
