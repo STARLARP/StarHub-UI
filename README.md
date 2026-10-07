@@ -15,7 +15,6 @@
 [![Language](https://img.shields.io/badge/Language-Luau-000080?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org)
 [![Version](https://img.shields.io/badge/Version-5.7.0-brightgreen?style=for-the-badge)](https://github.com/STARLARP/StarHub-UI)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 </div>
 
